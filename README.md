@@ -1,3 +1,4 @@
+greeting = "hello world"
 # Variable Assignment
 
 ## Objectives
